@@ -1,0 +1,94 @@
+Code Book: Summaries the data in tiday_dataset
+
+Identifiers: converted to character
+subject - ID of the test subject
+activity - Type of activity performed when the measurements (below) were taken
+
+Measurements:
+tBodyAccMeanX
+tBodyAccMeanY
+tBodyAccMeanZ
+tBodyAccStdX
+tBodyAccStdY
+tBodyAccStdZ
+tGravityAccMeanX
+tGravityAccMeanY
+tGravityAccMeanZ
+tGravityAccStdX
+tGravityAccStdY
+tGravityAccStdZ
+tBodyAccJerkMeanX
+tBodyAccJerkMeanY
+tBodyAccJerkMeanZ
+tBodyAccJerkStdX
+tBodyAccJerkStdY
+tBodyAccJerkStdZ
+tBodyGyroMeanX
+tBodyGyroMeanY
+tBodyGyroMeanZ
+tBodyGyroStdX
+tBodyGyroStdY
+tBodyGyroStdZ
+tBodyGyroJerkMeanX
+tBodyGyroJerkMeanY
+tBodyGyroJerkMeanZ
+tBodyGyroJerkStdX
+tBodyGyroJerkStdY
+tBodyGyroJerkStdZ
+tBodyAccMagMean
+tBodyAccMagStd
+tGravityAccMagMean
+tGravityAccMagStd
+tBodyAccJerkMagMean
+tBodyAccJerkMagStd
+tBodyGyroMagMean
+tBodyGyroMagStd
+tBodyGyroJerkMagMean
+tBodyGyroJerkMagStd
+fBodyAccMeanX
+fBodyAccMeanY
+fBodyAccMeanZ
+fBodyAccStdX
+fBodyAccStdY
+fBodyAccStdZ
+fBodyAccMeanFreqX
+fBodyAccMeanFreqY
+fBodyAccMeanFreqZ
+fBodyAccJerkMeanX
+fBodyAccJerkMeanY
+fBodyAccJerkMeanZ
+fBodyAccJerkStdX
+fBodyAccJerkStdY
+fBodyAccJerkStdZ
+fBodyAccJerkMeanFreqX
+fBodyAccJerkMeanFreqY
+fBodyAccJerkMeanFreqZ
+fBodyGyroMeanX
+fBodyGyroMeanY
+fBodyGyroMeanZ
+fBodyGyroStdX
+fBodyGyroStdY
+fBodyGyroStdZ
+fBodyGyroMeanFreqX
+fBodyGyroMeanFreqY
+fBodyGyroMeanFreqZ
+fBodyAccMagMean
+fBodyAccMagStd
+fBodyAccMagMeanFreq
+fBodyBodyAccJerkMagMean
+fBodyBodyAccJerkMagStd
+fBodyBodyAccJerkMagMeanFreq
+fBodyBodyGyroMagMean
+fBodyBodyGyroMagStd
+fBodyBodyGyroMagMeanFreq
+fBodyBodyGyroJerkMagMean
+fBodyBodyGyroJerkMagStd
+fBodyBodyGyroJerkMagMeanFreq
+
+Activity Labels:
+WALKING (value 1): subject walking for the test
+WALKING_UPSTAIRS (value 2): subject walking up stairs for the test
+WALKING_DOWNSTAIRS (value 3): subject walking down stairs for the test
+SITTING (value 4): subject sitting for the test
+STANDING (value 5): subject standing for the test
+LAYING (value 6): subject laying down for the test
